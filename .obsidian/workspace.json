@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "f8619d8eb657b7ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "603bd52dd12fb2d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19cdf46e8e3bf59c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning Windows/Message queues.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Message queues"
+            }
+          },
+          {
+            "id": "2156b00044ff4b30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-08-29.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-29"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "65fc36a1fdc32e0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4203818f958d8329",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9d78e30699eb9eb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "dc84e8b7f5ed7312",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "plugins",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "21c469746e04e381",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "820d3d05cf5ac9f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb21db2c8b60e9e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "312c4b692ee385da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "a21c9b7de805edf8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "00a17a9942cc621b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ee7e514b7d230ca9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "1ff7fa88619c4be5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "2156b00044ff4b30",
+  "lastOpenFiles": [
+    "2025-08-23.md",
+    "2025-08-29.md",
+    "Learning Windows/Windows.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Pasted image 20250823140440.png",
+    "Pasted image 20250823140436.png",
+    "Learning Windows/Message queues.md",
+    "Excalidraw/Drawing 2025-08-30 13.05.43.excalidraw.md",
+    "Excalidraw",
+    "Welcome.md",
+    "Learning Windows"
+  ]
+}
