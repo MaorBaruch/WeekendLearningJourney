@@ -1,0 +1,1 @@
+Sockets are a software structure that serve as endpoints for sending and receiving data through network based connections.

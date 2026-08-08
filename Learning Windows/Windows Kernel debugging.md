@@ -1,0 +1,1 @@
+windows kernel debugging can happen with the program windbg, there are multiple ways to debug, for example, on a local machine using the local option (which needs to be enabled using the bcdedit command which will be explained here: <insert link in future> )
